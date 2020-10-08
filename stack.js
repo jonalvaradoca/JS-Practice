@@ -1,3 +1,5 @@
+// testing git pushes
+
 var stack = [];
 var top = 0;
 
@@ -14,3 +16,4 @@ function pop() {
 function empty() {
     return top == 0;
 }
+
